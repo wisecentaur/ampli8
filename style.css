@@ -1,0 +1,81 @@
+
+
+/*Thin 100*/
+/*Extra-light 200*/
+
+/*Light 300*/
+
+/*Regular 400*/
+
+/*Medium 500*/
+
+/*Semi-bold 600*/
+
+/*Bold 700*/
+
+/*Extra-bold 800*/
+
+/*Black 900*/
+
+
+@font-face {
+    font-family: 'Grenze';
+    src: url('fonts/GrenzeGotisch-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+h1 {
+    font-family: 'Grenze', Arial, sans-serif;
+    color: #34547A;
+    font-size: 60px;
+    text-transform: uppercase;
+}
+
+@font-face {
+    font-family: 'Revalia';
+    src: url('fonts/Revalia-Regular.woff2') format('woff2');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+h2 {
+    font-family: 'Revalia', Arial, sans-serif;
+    color: #34547A;
+    font-size: 30px;
+    text-transform: uppercase;  
+}
+
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('fonts/Roboto-Regular.woff2') format('woff2');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+h3 {
+    font-family: 'Roboto', Arial, sans-serif;
+    color: #34547A;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+div {
+    background-color: antiquewhite;
+
+}
+
+
+
+
+
+
+
+
+
+
+
